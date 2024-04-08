@@ -1,0 +1,42 @@
+
+.head{
+    background-color: rgb(7, 14, 63);
+    padding-top: 80px;
+    padding-top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 180px;
+}
+.textoLogo{
+    width: 280px;
+    padding-bottom: 17px;
+}
+.menu{
+    
+}
+.listaMenu{
+    list-style: none;
+    display: flex;
+}
+.listaMenu li{  
+    width: auto;
+    margin-right: 30px;
+}
+.listaMenu li a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.listaMenu li a:hover{
+    color: #ffbb3d;
+}
+
+.divLogo{
+    width: auto;
+}
+.divMenu{
+    margin: auto 0;
+}
+
